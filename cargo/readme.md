@@ -14,3 +14,11 @@ inside that project, you will get
     Cargo.toml (Tom's Obvious, Minimal Language) 
     it's a Cargo's configuration format.
     it contains: packages, dependencies, etc
+
+Compiling & Running
+1. Compile
+    > cargo build
+2. Running
+> cargo run
+
+*actually, running "cargo run" already includes compiling before running
